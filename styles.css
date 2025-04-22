@@ -1,0 +1,64 @@
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+    
+}
+
+#main {
+
+}
+
+.meeting-info {
+    & p {
+        
+    }
+
+}
+
+label[for="Name"] {
+
+}
+
+button:hover {
+    color: blue;
+}
+
+p, summary {
+
+}
+
+ol strong {
+
+}
+
+li > b {
+
+}
+
+input ~ label {
+
+}
+
+h2 + p {
+
+}
+
+ul.agenda-list {
+
+}
+
+label:has(+ input) {
+
+}
+
+/* Styling options for all of the site*/
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
